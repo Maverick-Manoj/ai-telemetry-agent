@@ -23,10 +23,10 @@ Collector → SQLite DB → Streamlit Dashboard
 - Top resource-consuming processes
 ## 📸 Screenshots
 ![Dashboard](docs/dashboard.png)
+
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-
 ```bash
 git clone https://github.com/Maverick-Manoj/ai-telemetry-agent.git
 
