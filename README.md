@@ -27,23 +27,23 @@ Collector → SQLite DB → Streamlit Dashboard
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-```bash
+```bash'''
 git clone https://github.com/Maverick-Manoj/ai-telemetry-agent.git
 
 ### 2. Create virtual environment
-```bash
+```bash'''
 cd ai-telemetry-agent
 py -m venv .venv
 .venv\Scripts\activate
 
 ### 3. Create virtual environment
-```bash
+```bash'''
 pip install psutil pandas streamlit scikit-learn requests matplotlib streamlit-autorefresh
 
 ### 4. Run telemetry collector
-```bash
+```bash'''
 python app\collector.py
 
 ### 5. Run telemetry collector
-```bash
+```bash'''
 streamlit run dashboard\dashboard.py
