@@ -23,7 +23,8 @@ Collector → SQLite DB → Streamlit Dashboard
 - Trends over time
 - Diagnosis & explanations
 - Top resource-consuming processes
-
+## 📸 Screenshots
+![Dashboard](docs/dashboard.png)
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
